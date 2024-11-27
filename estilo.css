@@ -490,4 +490,11 @@ input::placeholder, textarea::placeholder {
         font-size: 20px;
     }
 }
-
+#success-message {
+    background-color: #c25f52;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
